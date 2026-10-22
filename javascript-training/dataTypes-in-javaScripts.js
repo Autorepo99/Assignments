@@ -28,7 +28,7 @@ let javascriptISFun = false ;
 
 console.log(typeof javascriptISFun); //output boolean 
 
-//4.undefined ==> undefinde represents a variable that has been declared but not assigned a value .
+//4. ==> undefined represents a variable that has been declared but not assigned a value .
 
 let undefinedVar;
 console.log(typeof undefinedVar); // output : Undefined 
